@@ -7,10 +7,10 @@
     "test": "mocha",
     "start" : "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/BlueLB84/blogapplbv.git"
-  },
+  // "repository": {
+  //   "type": "git",
+  //   "url": "git+https://github.com/BlueLB84/blogapplbv.git"
+  // },
   "keywords": [
     "MongoDB",
     "Mongoose",
