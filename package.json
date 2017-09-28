@@ -7,15 +7,7 @@
     "test": "mocha",
     "start" : "node server.js"
   },
-  // "repository": {
-  //   "type": "git",
-  //   "url": "git+https://github.com/BlueLB84/blogapplbv.git"
-  // },
-  "keywords": [
-    "MongoDB",
-    "Mongoose",
-    "NodeJS"
-  ],
+  "keywords": [],
   "author": "LBV",
   "license": "ISC",
   "bugs": {
