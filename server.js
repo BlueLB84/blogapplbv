@@ -51,7 +51,8 @@ app.post('/posts', (req, res) => {
 		.create({
 			title: req.body.title,
 			content: req.body.content,
-			author: req.body.author})
+			author: req.body.author,
+			created: Date.now()})
 		.then(
 			blog => res.status(201).json(blog.apiRep()))
 		.catch(err => {
