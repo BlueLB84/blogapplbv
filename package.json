@@ -1,0 +1,28 @@
+{
+  "name": "blog-app-lbv",
+  "version": "1.0.0",
+  "description": "Blog App with MongoDB and Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueLB84/blogapplbv.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "Mongoose",
+    "NodeJS"
+  ],
+  "author": "LBV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlueLB84/blogapplbv/issues"
+  },
+  "homepage": "https://github.com/BlueLB84/blogapplbv#readme",
+  "dependencies": {
+    "express": "^4.15.5",
+    "mongoose": "^4.11.13"
+  }
+}
