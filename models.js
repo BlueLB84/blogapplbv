@@ -19,7 +19,8 @@ blogSchema.methods.apiRep = function() {
 		id: this._id,
 		title: this.title,
 		content: this.content,
-		author: this.authorName
+		author: this.authorName,
+		created: this.created
 	};
 }
 
